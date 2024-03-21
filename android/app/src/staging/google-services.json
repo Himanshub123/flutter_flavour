@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5877375299",
+    "project_id": "flavour-flutter",
+    "storage_bucket": "flavour-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5877375299:android:3f4d8c58adf54ca2860ff6",
+        "android_client_info": {
+          "package_name": "com.brainvire.flutter_flavour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDToY5aHK_W5EnkCsdFC7ivlqDQqmchQS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5877375299:android:f566683b79992a0f860ff6",
+        "android_client_info": {
+          "package_name": "com.brainvire.flutter_flavour.staging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDToY5aHK_W5EnkCsdFC7ivlqDQqmchQS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
